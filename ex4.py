@@ -98,7 +98,6 @@ if __name__ == "__main__":
     test_heapify_empty()
     test_heapify_random()
     
-    # Example usage:
     print("\nExample usage of enqueue and dequeue:")
     h = Heap()
     h.heapify([10, 15, 20])
